@@ -1,0 +1,24 @@
+{
+  "name": "bible-importer",
+  "version": "1.0.0",
+  "main": "import.js",
+  "dependencies": {
+    "@bible-engine/core": "^1.4.9",
+    "@bible-engine/importers": "^1.4.6",
+    "@types/mysql": "^2.15.21",
+    "mysql2": "^3.5.0",
+    "typescript": "^5.1.6"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.22.6",
+    "@babel/core": "^7.22.8",
+    "@babel/preset-env": "^7.22.7",
+    "@babel/preset-typescript": "^7.22.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
